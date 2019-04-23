@@ -1,0 +1,12 @@
+Goals: build a basic program to explain basic command line functions
+For whom?
+Those interested in interactively learning a CLI interface
+What to teach?
+Basic file management
+Using help documentation
+What to use?
+See what OS user is Using
+If OS == Windows:
+  teach powershell
+else:
+  teach bash
